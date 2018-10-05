@@ -1,2 +1,1 @@
-# Demo
-Demo Repository 
+WEll, as you can see, this is just a Demo!, check back later. :)
